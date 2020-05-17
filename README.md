@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Introduction
 This is a Loan calculator user interface that allows a user to enter a loan amount and loan
